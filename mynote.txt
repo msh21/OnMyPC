@@ -1,0 +1,2 @@
+1) Hi this is my first note for git
+ 2)this is the second line
